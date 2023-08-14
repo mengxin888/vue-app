@@ -168,7 +168,6 @@ onMounted(()=>{
   background-color: #fff;
   padding-bottom:20px;
 }
-
 .company-name {
   padding: 20px 10px;
 }
